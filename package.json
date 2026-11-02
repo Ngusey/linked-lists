@@ -1,0 +1,9 @@
+{
+  "name": "linked-lists",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js",
+    "test": "node test.js"
+  }
+}
